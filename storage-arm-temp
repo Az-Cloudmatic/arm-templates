@@ -6,7 +6,7 @@
     "variables": {},
     "resources": [
         {
-            "name": "git-tem-sam-stg-0067",
+            "name": "git-tem-sam-stg-git98",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2021-04-01",
             "tags": {
